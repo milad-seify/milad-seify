@@ -23,7 +23,7 @@ Feel free to connect via email: **[miladseify5@gmail.com](mailto:miladseify5@gma
 ### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="40" height="40" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
@@ -38,7 +38,7 @@ Feel free to connect via email: **[miladseify5@gmail.com](mailto:miladseify5@gma
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" width="40" height="40" />
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
@@ -91,7 +91,30 @@ Feel free to connect via email: **[miladseify5@gmail.com](mailto:miladseify5@gma
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
   </a>
+  <a href="https://www.openstack.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="openstack" width="40" height="40" />
+  </a>
+  <a href="https://ceph.io/en/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ceph/ceph-icon.svg" alt="ceph" width="40" height="40" />
+  </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40" />
+  </a>
+  <a href="https://www.packer.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/packerio/packerio-icon.svg" alt="packer" width="40" height="40" />
+  </a>
+  <a href="https://about.gitlab.com/stages-devs/continuous-integration/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlabci" width="40" height="40" />
+  </a>
+  <a href="https://maas.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/cncf/landscape/blob/master/hosted_logos/maas.svg" alt="maas" width="40" height="40" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40" />
+  </a>
 </p>
+
+
 
 ---
 
