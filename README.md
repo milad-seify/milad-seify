@@ -2,7 +2,7 @@
 
 <h3 align="center">Cloud Engineer | Hardware & Software Enthusiast</h3>
 <p align="center">
-  I'm passionate about designing and maintaining cloud infrastructure with a strong focus on high availability, security, and scalability. I leverage technologies like OpenStack, Ceph, and Docker to optimize performance and troubleshoot systems across both physical and virtual environments.
+  I'm passionate about designing and maintaining cloud infrastructure with a strong focus on high availability, security, and scalability. I leverage technologies like OpenStack, Ceph, and Docker .... to optimize performance and troubleshoot systems across both physical and virtual environments.
 </p>
 
 ---
